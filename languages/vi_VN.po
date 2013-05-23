@@ -1,0 +1,794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comeasy v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-19 11:35+0700\n"
+"PO-Revision-Date: 2013-04-19 04:46:33+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:29
+#@ adribbon
+msgid "404 This is not the web page you are looking for."
+msgstr "404 Đây không phải là trang mà bạn tìm kiếm."
+
+#: comments.php:5
+#@ adribbon
+msgid "You cannot access this file directly."
+msgstr "Bạn không thể truy cập tập tin này một cách trực tiếp."
+
+#: comments.php:11
+#@ adribbon
+msgid "This post is password protected. Enter password to view the comments."
+msgstr "Bài viết này yêu cầu mật khẩu để xem. Nhập mật khẩu để xem bình luận."
+
+#: comments.php:19
+#@ adribbon
+msgid "No comments to this article"
+msgstr "Chưa có bình luận về bài viết này"
+
+#: comments.php:20
+#@ adribbon
+msgid "1 comment to this article"
+msgstr "Có 1 bình luận về bài viết này"
+
+#: comments.php:21
+#, php-format
+#@ adribbon
+msgid "% comments to this article"
+msgstr "Có % bình luận về bài viết này"
+
+#: comments.php:37
+#@ adribbon
+msgid "Comments are closed."
+msgstr "Bình luận đã bị đóng."
+
+#: content-single.php:21
+#: content.php:27
+#: functions.php:217
+#@ adribbon
+msgid "on"
+msgstr "vào"
+
+#: content-single.php:24
+#: content.php:30
+#@ adribbon
+msgid "No comments"
+msgstr "Chưa có bình luận"
+
+#: content-single.php:24
+#: content.php:31
+#@ adribbon
+msgid "1 comment"
+msgstr "1 bình luận"
+
+#: content-single.php:24
+#: content.php:32
+#, php-format
+#@ adribbon
+msgid "% comments"
+msgstr "% bình luận"
+
+#: content-single.php:57
+#@ adribbon
+msgid "Tags: "
+msgstr "Thẻ liên quan: "
+
+#: content-single.php:64
+#@ adribbon
+msgid "Article by "
+msgstr "Bài viết bởi "
+
+#: custom-header.php:102
+#@ adribbon
+msgid "Welcome to my site!"
+msgstr "Chào mừng tới trang web của tôi!"
+
+#: footer.php:18
+#@ adribbon
+msgid "Go to Top"
+msgstr "Quay lên trên"
+
+#: functions-utility.php:16
+#: obsolete/category-obsolete.php:56
+#: obsolete/tag-obsolete.php:56
+#: search.php:55
+#@ adribbon
+msgid "&laquo; Previous Posts"
+msgstr "&laquo; Bài cũ hơn"
+
+#: functions-utility.php:19
+#: obsolete/category-obsolete.php:59
+#: obsolete/tag-obsolete.php:59
+#: search.php:58
+#@ adribbon
+msgid "Next Posts &raquo;"
+msgstr "Bài mới hơn &raquo;"
+
+#: functions.php:75
+#@ adribbon
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:76
+#@ adribbon
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:87
+#@ adribbon
+msgid "Homepage Sidebar"
+msgstr ""
+
+#: functions.php:89
+#@ adribbon
+msgid "The homepage sidebar area"
+msgstr ""
+
+#: functions.php:99
+#@ adribbon
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:101
+#@ adribbon
+msgid "The footer sidebar area"
+msgstr ""
+
+#: functions.php:111
+#@ adribbon
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:113
+#@ adribbon
+msgid "The blog sidebar area"
+msgstr ""
+
+#: functions.php:123
+#@ adribbon
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: functions.php:125
+#@ adribbon
+msgid "The single post sidebar area"
+msgstr ""
+
+#: functions.php:135
+#@ adribbon
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:137
+#@ adribbon
+msgid "The shop sidebar area"
+msgstr ""
+
+#: functions.php:147
+#@ adribbon
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: functions.php:149
+#@ adribbon
+msgid "The single product sidebar area"
+msgstr ""
+
+#: functions.php:159
+#@ adribbon
+msgid "Normal Page Sidebar"
+msgstr ""
+
+#: functions.php:161
+#@ adribbon
+msgid "The normal sidebar area. This sidebar will display in theses normal pages that not home, shop, single-product, blog, single-blog-post and 404 page"
+msgstr ""
+
+#: functions.php:171
+#@ adribbon
+msgid "404 Page Sidebar"
+msgstr ""
+
+#: functions.php:173
+#@ adribbon
+msgid "The 404-page sidebar area"
+msgstr ""
+
+#: functions.php:186
+#@ adribbon
+msgid "Reply"
+msgstr "Trả lời"
+
+#: functions.php:193
+#@ adribbon
+msgid "Pingback"
+msgstr ""
+
+#: functions.php:211
+#@ adribbon
+msgid "Admin"
+msgstr ""
+
+#: functions.php:217
+#@ adribbon
+msgid "at"
+msgstr "lúc"
+
+#: functions.php:227
+#@ adribbon
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang được kiểm duyệt."
+
+#: functions.php:242
+#, php-format
+#@ adribbon
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Bạn có thể dùng những thẻ <abbr title=\"HyperText Markup Language\">HTML</abbr>: %s"
+
+#: functions.php:243
+#@ adribbon
+msgid "Leave a reply"
+msgstr "Để lại bình luận"
+
+#: functions.php:244
+#@ adribbon
+msgid "Cancel reply"
+msgstr "Thoát bình luận"
+
+#: functions.php:245
+#@ adribbon
+msgid "Post Comment"
+msgstr "Gửi bình luận"
+
+#: functions.php:264
+#@ adribbon
+msgid "Name"
+msgstr "Tên"
+
+#: functions.php:269
+#@ adribbon
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:274
+#@ adribbon
+msgid "Website"
+msgstr "Website"
+
+#: functions.php:365
+#, fuzzy
+#@ adribbon
+msgid "Read the Rest..."
+msgstr "Đọc thêm..."
+
+#: header.php:98
+#: header.php:148
+#: index.php:23
+#: search.php:23
+#@ adribbon
+msgid "Select Item"
+msgstr "Chọn một trang"
+
+#: home.php:40
+#: inc/slider/templates/carousel-slider.php:6
+#@ adribbon
+msgid "Featured Products"
+msgstr "Sản Phẩm Tiêu Biểu"
+
+#: home.php:64
+#: inc/slider/templates/carousel-slider.php:37
+#@ adribbon
+msgid "No products found"
+msgstr ""
+
+#: home.php:104
+#: index.php:34
+#: not-found.php:6
+#: obsolete/category-obsolete.php:42
+#: obsolete/tag-obsolete.php:42
+#: single.php:18
+#@ adribbon
+msgid "No posts were found!"
+msgstr "Không bài viết nào được tìm thấy!"
+
+#: options.php:32
+#@ options_check
+msgid "One"
+msgstr ""
+
+#: options.php:33
+#@ options_check
+msgid "Two"
+msgstr ""
+
+#: options.php:34
+#@ options_check
+msgid "Three"
+msgstr ""
+
+#: options.php:35
+#@ options_check
+msgid "Four"
+msgstr ""
+
+#: options.php:36
+#@ options_check
+msgid "Five"
+msgstr ""
+
+#: options.php:41
+#@ options_check
+msgid "French Toast"
+msgstr ""
+
+#: options.php:42
+#@ options_check
+msgid "Pancake"
+msgstr ""
+
+#: options.php:43
+#@ options_check
+msgid "Omelette"
+msgstr ""
+
+#: options.php:44
+#@ options_check
+msgid "Crepe"
+msgstr ""
+
+#: options.php:45
+#@ options_check
+msgid "Waffle"
+msgstr ""
+
+#: options.php:105
+#@ options_check
+msgid "Basic Settings"
+msgstr ""
+
+#: options.php:109
+#@ options_check
+msgid "Input Text Mini"
+msgstr ""
+
+#: options.php:110
+#@ options_check
+msgid "A mini text input field."
+msgstr ""
+
+#: options.php:117
+#@ options_check
+msgid "Input Text"
+msgstr ""
+
+#: options.php:118
+#@ options_check
+msgid "A text input field."
+msgstr ""
+
+#: options.php:124
+#@ options_check
+msgid "Textarea"
+msgstr ""
+
+#: options.php:125
+#@ options_check
+msgid "Textarea description."
+msgstr ""
+
+#: options.php:131
+#@ options_check
+msgid "Input Select Small"
+msgstr ""
+
+#: options.php:132
+#@ options_check
+msgid "Small Select Box."
+msgstr ""
+
+#: options.php:140
+#@ options_check
+msgid "Input Select Wide"
+msgstr ""
+
+#: options.php:141
+#@ options_check
+msgid "A wider select box."
+msgstr ""
+
+#: options.php:148
+#, fuzzy
+#@ options_check
+msgid "Select a Category"
+msgstr "Chọn một trang"
+
+#: options.php:149
+#@ options_check
+msgid "Passed an array of categories with cat_ID and cat_name"
+msgstr ""
+
+#: options.php:155
+#, fuzzy
+#@ options_check
+msgid "Select a Tag"
+msgstr "Chọn một trang"
+
+#: options.php:156
+#@ options_check
+msgid "Passed an array of tags with term_id and term_name"
+msgstr ""
+
+#: options.php:162
+#, fuzzy
+#@ options_check
+msgid "Select a Page"
+msgstr "Chọn một trang"
+
+#: options.php:163
+#@ options_check
+msgid "Passed an pages with ID and post_title"
+msgstr ""
+
+#: options.php:169
+#@ options_check
+msgid "Input Radio (one)"
+msgstr ""
+
+#: options.php:170
+#@ options_check
+msgid "Radio select with default options \"one\"."
+msgstr ""
+
+#: options.php:177
+#@ options_check
+msgid "Example Info"
+msgstr ""
+
+#: options.php:178
+#@ options_check
+msgid "This is just some example information you can put in the panel."
+msgstr ""
+
+#: options.php:182
+#@ options_check
+msgid "Input Checkbox"
+msgstr ""
+
+#: options.php:183
+#@ options_check
+msgid "Example checkbox, defaults to true."
+msgstr ""
+
+#: options.php:189
+#@ options_check
+msgid "Advanced Settings"
+msgstr ""
+
+#: options.php:193
+#@ options_check
+msgid "Check to Show a Hidden Text Input"
+msgstr ""
+
+#: options.php:194
+#@ options_check
+msgid "Click here and see what happens."
+msgstr ""
+
+#: options.php:199
+#@ options_check
+msgid "Hidden Text Input"
+msgstr ""
+
+#: options.php:200
+#@ options_check
+msgid "This option is hidden unless activated by a checkbox click."
+msgstr ""
+
+#: options.php:207
+#@ options_check
+msgid "Uploader Test"
+msgstr ""
+
+#: options.php:208
+#@ options_check
+msgid "This creates a full size uploader that previews the image."
+msgstr ""
+
+#: options.php:225
+#@ options_check
+msgid "Example Background"
+msgstr ""
+
+#: options.php:226
+#@ options_check
+msgid "Change the background CSS."
+msgstr ""
+
+#: options.php:232
+#@ options_check
+msgid "Multicheck"
+msgstr ""
+
+#: options.php:233
+#@ options_check
+msgid "Multicheck description."
+msgstr ""
+
+#: options.php:240
+#@ options_check
+msgid "Colorpicker"
+msgstr ""
+
+#: options.php:241
+#@ options_check
+msgid "No color selected by default."
+msgstr ""
+
+#: options.php:246
+#@ options_check
+msgid "Typography"
+msgstr ""
+
+#: options.php:247
+#@ options_check
+msgid "Example typography."
+msgstr ""
+
+#: options.php:253
+#@ options_check
+msgid "Custom Typography"
+msgstr ""
+
+#: options.php:254
+#@ options_check
+msgid "Custom typography options."
+msgstr ""
+
+#: options.php:261
+#@ options_check
+msgid "Text Editor"
+msgstr ""
+
+#: options.php:279
+#@ options_check
+msgid "Default Text Editor"
+msgstr ""
+
+#: options.php:280
+#, php-format
+#@ options_check
+msgid "You can also pass settings to the editor.  Read more about wp_editor in <a href=\"%1$s\" target=\"_blank\">the WordPress codex</a>"
+msgstr ""
+
+#: page-contact.php:31
+#: page-fullwidth.php:31
+#@ adribbon
+msgid "No pages were found!"
+msgstr "Không trang nào được tìm thấy!"
+
+#: search.php:31
+#@ adribbon
+msgid "Search Results for: "
+msgstr "Kết quả tìm kiếm của từ khóa: "
+
+#: searchform.php:3
+#@ adribbon
+msgid "Search site..."
+msgstr "Tìm kiếm..."
+
+#: sidebar-blog.php:5
+#: sidebar-footer.php:5
+#: sidebar-fourohfour.php:5
+#: sidebar-normal.php:5
+#: sidebar-shop.php:5
+#: sidebar-single-post.php:5
+#: sidebar-single-product.php:5
+#: sidebar.php:5
+#@ adribbon
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: social-post.php:10
+#: social.php:10
+#@ adribbon
+msgid "Click to share this post on Facebook"
+msgstr "Click để chia sẻ bài viết này trên Facebook"
+
+#: social-post.php:16
+#: social.php:16
+#@ adribbon
+msgid "Click to share this post on Twitter"
+msgstr "Click để chia sẻ bài viết này trên Twitter"
+
+#: social-post.php:19
+#: social.php:19
+#@ adribbon
+msgid "Click to share this post on Google+"
+msgstr "Click để chia sẻ bài viết này trên Google+"
+
+#: social.php:22
+#@ adribbon
+msgid "View Detail"
+msgstr "Xem bài viết"
+
+#: inc/slider/slider_post_type.php:17
+#@ adribbon
+msgid "Slides"
+msgstr ""
+
+#: inc/slider/slider_post_type.php:14
+#: inc/slider/slider_post_type.php:15
+#: inc/slider/slider_post_type.php:16
+#: inc/slider/slider_post_type.php:26
+#@ adribbon
+msgid "Slide"
+msgstr ""
+
+#: inc/slider/slider_post_type.php:8
+#: inc/slider/slider_post_type.php:9
+#@ adribbon
+msgid "Add New Slide"
+msgstr ""
+
+#: inc/slider/slider_post_type.php:10
+#@ adribbon
+msgid "Edit Slide"
+msgstr ""
+
+#: inc/slider/slider_post_type.php:11
+#@ adribbon
+msgid "New Slide"
+msgstr ""
+
+#: inc/slider/slider_post_type.php:12
+#@ adribbon
+msgid "View Slide"
+msgstr ""
+
+#: inc/slider/slider_post_type.php:13
+#@ adribbon
+msgid "Search Slides"
+msgstr ""
+
+#: inc/slider/slider_post_type.php:45
+#@ adribbon
+msgid "Categories"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-300-widget.php:8
+#@ adribbon
+msgid "Displays Ad 300x150 Sidebar Widget"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-300-widget.php:50
+#: widget/adribbon-ad-widget/adribbon-ad-widget.php:50
+#: widget/adribbon-social-widget/adribbon-social-widget.php:41
+#@ adribbon
+msgid "Title:"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-300-widget.php:55
+#@ adribbon
+msgid "Image Link 1 (300x150):"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-300-widget.php:60
+#: widget/adribbon-ad-widget/adribbon-ad-widget.php:60
+#@ adribbon
+msgid "Url 1:"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-300-widget.php:65
+#: widget/adribbon-ad-widget/adribbon-ad-widget.php:65
+#@ adribbon
+msgid "Title 1:"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-300-widget.php:70
+#@ adribbon
+msgid "Image Link 2 (300x150)"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-300-widget.php:75
+#: widget/adribbon-ad-widget/adribbon-ad-widget.php:75
+#@ adribbon
+msgid "Url 2:"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-300-widget.php:80
+#: widget/adribbon-ad-widget/adribbon-ad-widget.php:80
+#@ adribbon
+msgid "Title 2:"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-widget.php:8
+#@ adribbon
+msgid "Displays Ad Sidebar Widget"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-widget.php:55
+#@ adribbon
+msgid "Image Link 1 (110x110):"
+msgstr ""
+
+#: widget/adribbon-ad-widget/adribbon-ad-widget.php:70
+#@ adribbon
+msgid "Image Link 2 (110x110)"
+msgstr ""
+
+#: widget/adribbon-social-widget/adribbon-social-widget.php:8
+#@ adribbon
+msgid "Displays Social Sidebar Widget"
+msgstr ""
+
+#: widget/adribbon-social-widget/adribbon-social-widget.php:46
+#@ adribbon
+msgid "Facebook:"
+msgstr ""
+
+#: widget/adribbon-social-widget/adribbon-social-widget.php:51
+#@ adribbon
+msgid "Twitter:"
+msgstr ""
+
+#: widget/adribbon-social-widget/adribbon-social-widget.php:56
+#@ adribbon
+msgid "Google Plus:"
+msgstr ""
+
+#: widget/adribbon-social-widget/adribbon-social-widget.php:61
+#@ adribbon
+msgid "Square Icon"
+msgstr ""
+
+#: widget/adribbon-social-widget/adribbon-social-widget.php:64
+#@ adribbon
+msgid "Round Icon"
+msgstr ""
+
+#: woocommerce/woocommerce-config.php:7
+#@ woocommerce
+msgid "Vietnamese Dong (VND)"
+msgstr ""
+
+#: woocommerce/woocommerce-config.php:108
+#@ adribbon
+msgid "Reverse-Alphabetically"
+msgstr "Thứ tự ngược bảng chữ cái"
+
+#: woocommerce/woocommerce-config.php:109
+#@ adribbon
+msgid "Price (highest to lowest)"
+msgstr "Giá (từ cao đến thấp)"
+
+#: woocommerce/woocommerce-config.php:110
+#@ adribbon
+msgid "Oldest to newest"
+msgstr "Cũ nhất đến mới nhất"
+
+#: inc/slider/slider_post_type.php:6
+#@ adribbon
+msgctxt "post type general name"
+msgid "Slides"
+msgstr ""
+
+#: inc/slider/slider_post_type.php:7
+#@ adribbon
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+

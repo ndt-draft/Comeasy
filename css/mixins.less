@@ -1,0 +1,47 @@
+/* ---------- PARAMETRIC MIXINS ---------- */
+.clearfix() {
+  &:after {
+    content:"";
+    display:block;
+    clear:both;
+  }
+}
+
+.round (@radius: 5px) {
+  -webkit-border-radius: @radius;
+  border-radius: @radius;
+
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+
+.gradient (@from, @to) {
+  background-color: @from;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(@from), to(@to));
+  background-image: -webkit-linear-gradient(top, @from, @to);
+  background-image:    -moz-linear-gradient(top, @from, @to);
+  background-image:      -o-linear-gradient(top, @from, @to);
+  background-image:         linear-gradient(to bottom, @from, @to);
+}
+
+.box-shadow (@x: 0, @y: 0, @blur: 1px, @color: #000) {
+  -webkit-box-shadow: @arguments;
+  box-shadow: @arguments;
+}
+
+.inner-shadow (inset, @x: 0, @y: 0, @blur: 1px, @color: #000) {
+  -webkit-box-shadow: @arguments;
+  box-shadow: @arguments;
+}
+
+.text-shadow (@x: 0, @y: 0, @blur: 1px, @color: #000) {
+     text-shadow: @arguments;
+}
+
+.transition (@duration: 0.2s, @ease: ease-out) {
+  -webkit-transition: all @duration @ease;
+  -moz-transition: all @duration @ease;
+  -o-transition: all @duration @ease; 
+  transition: all @duration @ease;
+}
